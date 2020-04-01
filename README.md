@@ -1,2 +1,2 @@
 # Simple-FPS-Movement-UNITY
-FPS movement and aim simple script.
+Simple movement and aim scripts for UNITY FPS Game.
